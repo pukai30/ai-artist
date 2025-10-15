@@ -1,0 +1,15 @@
+{
+  "prompt": "digital art, highly detailed, cinematic a man walking with a backpack in walking a beachfront with clear blue sky",
+  "base_description": "a man walking with a backpack in walking a beachfront with clear blue sky",
+  "style_modifier": "digital art, highly detailed, cinematic",
+  "negative_prompt": "blurry, low quality, distorted, bad anatomy",
+  "num_inference_steps": 25,
+  "guidance_scale": 7.5,
+  "seed": null,
+  "width": 512,
+  "height": 512,
+  "generation_time": 405.57,
+  "object_extracted": "person",
+  "new_scene": "walking a beachfront with clear blue sky",
+  "original_image": "input_image.png"
+}

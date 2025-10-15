@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Streamlit
+.streamlit/
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+!example_*.png
+
+# Generated images output directory
+generated_images/
+
+# Model cache
+models/
+.cache/
